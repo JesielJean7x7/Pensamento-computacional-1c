@@ -5,7 +5,7 @@ repositório criado para postar os trabalhos desenvolvidos na disciplina de pens
 
 **João Calisario** N-41
       
-####O poeta é um fingidor.
+#O poeta é um fingidor.
 Finge tão completamente
 Que chega a fingir que é dor
-A dor que deveras sente.####
+A dor que deveras sente.#
